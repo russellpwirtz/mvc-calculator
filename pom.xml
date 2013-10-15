@@ -173,6 +173,8 @@
                 <configuration>
                     <path>/</path>
                     <port>8080</port>
+                    <username>tomcat</username>
+                    <password>tomcat</password>
                     <contextFile>src/main/webapp/WEB_INF/applicationContext.xml</contextFile>
                 </configuration>
             </plugin>
