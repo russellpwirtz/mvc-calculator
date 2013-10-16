@@ -155,7 +155,7 @@
                 <configuration>
                     <url>http://localhost:8080/manager/text</url>
                     <path>/</path>
-                    <port>8080</port>
+                    <port>8000</port>
                     <username>tomcat</username>
                     <password>tomcat</password>
                     <server>localtomcat</server>
